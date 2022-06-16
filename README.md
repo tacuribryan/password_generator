@@ -1,2 +1,2 @@
 # password_generator
-python based web app that generates a random password.
+Django3 - python based web app that generates a random password.
