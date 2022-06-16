@@ -1,2 +1,2 @@
 # password_generator
-python based app that generates a random password.
+python based web app that generates a random password.
